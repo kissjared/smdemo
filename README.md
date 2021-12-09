@@ -1,0 +1,2 @@
+# smdemo
+ServiceMesh GitOps Demo
